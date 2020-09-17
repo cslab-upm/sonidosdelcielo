@@ -10,7 +10,7 @@ Cuando los meteoroides entran en las partes más densas de la atmósfera, la fri
 
 El proyecto de ciencia ciudadana *Contadores de Estrellas* cuenta con una infraestructura de dos estaciones de radio de meteoros situadas en Madrid y Extremadura que monitorizan la señal del radar GRAVES, ubicado en Dijon, Francia, y que emite a 143.050 MHz de forma ininterrumpida. Esta baliza se está utilizando en los últimos años para todo tipo de experimentos de propagación, entre los cuales está la detección de meteoros o el rebote lunar. Cada estación de radio cuenta con una antena de tipo Yagi y un receptor SDR. Con esta configuración, gracias a un programa de código abierto, se genera el espectrograma y el sonido asociado a cada detección.
 
-![Esquema de la infraestructura del proyecto Contadores de estrellas](/docs/images/esquema_infraestructura.jpg)
+![Esquema de la infraestructura del proyecto Contadores de estrellas](/sonidosdelcielo/docs/images/esquema_infraestructura.jpg)
 
 Estas estaciones han sido construidas y probadas por aficionados de la **Agrupación Astronómica de Madrid Sur** y miembros del **Grupo Kepler**. La UPM y el IAC empezaron a colaborar con estas dos entidades hace unos meses y se estableció una línea de trabajo conjunta para disponer de una red de estaciones y una solución centralizada para compartir los datos recogidos.
 
@@ -39,7 +39,7 @@ No sólo eso, sino que además el chatbot va a permitir **gamificar** la aplicac
 
 
 <div style="text-align: center;">
-<i class="fa fab fa-low-vision" style="display: inline-block !important; margin-right: 2em;"></i>
+<i class="fa fab fa-low-vision" style="display: inline-block !important; margin-right: 1.5em;"></i>
 <i class="fa fas fa-gamepad" style="display: inline-block !important"></i>
 </div>
 

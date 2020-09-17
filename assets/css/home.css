@@ -51,6 +51,7 @@
     font-size: 2em;
     z-index: 2;
     position: relative;
+    font-style: italic;
 }
 
 /* Section about project */
@@ -158,6 +159,20 @@ h2 {
 @media screen and (min-width: 600px) {
     .news-card {
         width: 100%;    
+    }
+}
+@media screen and (max-width: 667px) {
+    #banner {
+        padding: 10em 0 2em 1em;
+    }
+    .banner-title {
+        font-size: 4em;
+    }
+    .banner-subtitle {
+        font-size: 1.5em;
+    }
+    .contact-form {
+        height: 190vh !important;
     }
 }
 @media screen and (min-width: 768px) {

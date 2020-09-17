@@ -8,6 +8,7 @@ html {
 nav {
     position: fixed;
     z-index: 9999;
+    width: 100vw;
 }
 .navbar {
     position: fixed;
@@ -56,6 +57,7 @@ footer {
 .logo {
     background-color: #fff;
     height: 10vh;
+    max-width: 100%;
 }
 .logos {
     height: fit-content;

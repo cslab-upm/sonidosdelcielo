@@ -17,7 +17,12 @@ layout: default
 <section id="about-project">
         <h2>{{ site.data.home.about }}</h2>
         <p>{{ site.data.home.excerpt }}</p>
-        <a href="{{ site.data.home.url}}">{{ site.data.home.more }}</a> 
+        {%- if site.data.home.url contains '://' -%}
+            {%- assign url = site.data.home.url -%}
+        {%- else -%}
+            {%- assign url = site.data.home.url | relative_url -%}
+        {%- endif -%}
+        <a href="{{ url }}">{{ site.data.home.more }}</a> 
 </section>
 
 
