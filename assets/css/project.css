@@ -35,7 +35,9 @@
     min-height: 10em;
 }
 #banner-title h1{
-    padding-top: 2em;
+    padding-top: 3em;
+    padding-bottom: 1em;
+    /*padding-top: 2em;*/
     padding-left: 1.4em;
 }
 #go-top {
@@ -45,7 +47,7 @@
 }
 .up-btn {
     border-radius: 100%;
-    background-color: #ec8d81;
+    background-color: #FF9ABE; /*#ec8d81;*/
     color: #242943;
     height: 2.5em;
     width: 2.5em;

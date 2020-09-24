@@ -67,13 +67,17 @@ footer_logos:
   - title: Logo Kepler
     url: /docs/images/logos/LOGOTIPO_kepler_PNG.png
     image: 
-  - title: Logo Fundación Española para la Ciencia y la Tecnología
-    url: /docs/images/logos/LOGOTIPO_ministerio-fecyt-con-banderas-01.svg
-    image: 
   - title: Logo Instituto de Astrofísica de Canarias
     url: /docs/images/logos/LOGOTIPO_IAC_PNG.png
     image: 
+  - title: Logo de la Agrupación Astronómica de Madrid Sur
+    url: /docs/images/logos/LOGOTIPO_AAMS_PNG.png
+    image:
+  - title: Logo Fundación Española para la Ciencia y la Tecnología
+    url: /docs/images/logos/LOGOTIPO_ministerio-fecyt-con-banderas-01.svg
+    image: 
 
+    
 
 # Collections
 collections:

@@ -31,7 +31,7 @@
     /*-webkit-pointer-events: none; */
     /*-ms-pointer-events: none;*/
     /* pointer-events: none; */
-    background-color: #242943;
+    background-color: #172232;/*#242943;*/
     content: '';
     display: block;
     height: 100%;
@@ -62,11 +62,11 @@
     color: #ffff;
 }
 #about-project a {
-    color: rgba(244,244,255,0.2);
+    color: #6fc3df; /* rgba(244,244,255,0.2);*/
     font-size: 18px;
 }
 #about-project a:hover {
-    color: #6fc3df;
+    color: #FF9ABE;/* #6fc3df;*/
 }
 h2 {
     margin-bottom: 1em;
@@ -146,8 +146,8 @@ h2 {
     padding: 5px 30px;
 }
 .quick-access:hover {
-    color: #8d82c4;
-    border: solid 1px #8d82c4;
+    color: #FF9ABE;/* #8d82c4; */
+    border: solid 1px #FF9ABE; /* #8d82c4; */
 }
 .news-empty {
     font-size: 18px;

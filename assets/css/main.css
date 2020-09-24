@@ -1,5 +1,5 @@
 body {
-    background: #242943;
+    background: #172232; /*background: #242943;*/
     margin: 0;
 }
 html {
@@ -15,13 +15,13 @@ nav {
     top: 0;
     width: 102%;
     box-shadow:  3px 15px 20px #6464644d;
-    background-color:#242943;
+    background-color: #172232;/* #242943; */
 }
 .navbar a {
     color: #fff;
 }
 .dropdown-menu {
-    background-color: #242943a6 ;
+    background-color: #172232db; /*#242943a6 ;*/
     border-radius: 0;
 }
 .inner {
