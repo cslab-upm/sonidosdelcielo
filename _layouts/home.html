@@ -25,6 +25,25 @@ layout: default
         <a href="{{ url }}">{{ site.data.home.more }}</a> 
 </section>
 
+<!-- Streaming radio -->
+<section id="radio">
+    <h2>{{ site.data.home.radio }}</h2>
+    <p>{{ site.data.home.stations }}</p>
+    {%- if site.data.radio.stations -%}
+        {%- for station in site.data.radio.stations -%}
+            <div class="radio-station">
+                <h5>{{ station.name }}</h5>
+                <audio xmlns="http://www.w3.org/1999/xhtml" controls="controls" preload="none" controlslist="nodownload">
+                    <source src="{{ station.url }}" type="application/ogg">
+                </audio>
+                <p>Descarga: 
+                    <a href="{{ station.m3u }}">M3U</a> 
+                    <a href="{{ station.xspf }}">XSPF</a>
+                </p>
+            </div>
+        {%- endfor -%}
+    {%- endif -%}
+</section>
 
 <!-- News -->
 <section id="last-news">
