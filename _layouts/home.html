@@ -60,7 +60,7 @@ layout: default
         <div class="news-card">
             <a href="{{ entry.url | relative_url}}">
                 <div class="card-filter"></div>
-                <img class="card-thumbnail" src="{{ entry.image.path }}" alt="">
+                <img class="card-thumbnail" src="{{ entry.image.thumbnail }}" alt="">
                 <div class="card-info">
                     <div class="card-date">
                         <time class="entry-date dt-published" datetime="{{ entry.date | date_to_xmlschema }}">
