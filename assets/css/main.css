@@ -16,6 +16,7 @@ nav {
     width: 102%;
     box-shadow:  3px 15px 20px #6464644d;
     background-color: #172232;/* #242943; */
+    padding: 0 5px 0 5px;
 }
 .navbar a {
     color: #fff;
