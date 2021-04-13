@@ -27,7 +27,7 @@ $(document).ready(function() {
     // showBotTyping();
     // $("#userInput").prop('disabled', true);
     $("#userInput").prop('disabled', true);
-    r = [{"text": "Hola! Soy un Chatbot!"}]
+    r = [{"text": "¡Hola! ¡Soy un Chatbot! Habla conmigo, salúdame y verás."}]
     setBotResponse(r);
     $("#userInput").prop('disabled', false);
 
