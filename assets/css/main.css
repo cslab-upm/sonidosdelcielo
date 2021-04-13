@@ -24,6 +24,7 @@ nav {
 .dropdown-menu {
     background-color: #172232db; /*#242943a6 ;*/
     border-radius: 0;
+    opacity: 1;
 }
 .inner {
     display: block;
