@@ -198,6 +198,7 @@ h2 {
     .contact-form {
         height: 190vh !important;
     }
+
 }
 @media screen and (min-width: 768px) {
     .news-card {
@@ -217,3 +218,16 @@ h2 {
         opacity: 1; 
      } 
 } 
+
+@media only screen and (max-width: 600px) {
+    .quick-access {
+    position: relative;
+    z-index: 2;
+    background-color: #ffffff24;
+    border: solid 1px #6fc3df;
+    margin: 20px 0 20px 0;
+    color: #6fc3df;
+    font-size: 12px;
+    padding: 5px 30px;
+    }
+}
