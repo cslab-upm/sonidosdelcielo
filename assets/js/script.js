@@ -28,16 +28,12 @@ $(document).ready(function() {
     // $("#userInput").prop('disabled', true);
     $("#userInput").prop('disabled', true);
     r = [{"text": "¡Hola! ¡Soy un Chatbot! Habla conmigo, salúdame y verás."}]
-    setBotResponse(r);
-    $("#userInput").prop('disabled', false);
-
-    //global variables
-    action_name = "action_greet_user";
-    user_id = "marcos";
-
-    //if you want the bot to start the conversation
-    // action_trigger();
-
+    showBotTyping();
+    setTimeout(() => {
+        hideBotTyping();
+        setBotResponse(r);
+        $("#userInput").prop('disabled', false);
+    }, 3500); 
 })
 
 // ========================== restart conversation ========================
