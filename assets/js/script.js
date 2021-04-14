@@ -203,7 +203,7 @@ function setBotResponse(response) {
         hideBotTyping();
         if (response.length < 1) {
             //if there is no response from Rasa, send  fallback message to the user
-            var fallbackMsg = "I am facing some issues, please try again later!!!";
+            var fallbackMsg = "¡Estoy teniendo algunos problemas, vuelve a intentarlo en unos instantes!";
 
             var BotResponse = '<img class="botAvatar" src="/sonidosdelcielo/docs/images/robot.png"/><p class="botMsg">' + fallbackMsg + '</p><div class="clearfix"></div>';
 
