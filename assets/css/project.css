@@ -32,10 +32,10 @@
 
 #banner-title {
     background-color: #6fc3df;
-    min-height: 10em;
+    min-height: 5em;
 }
 #banner-title h1{
-    padding-top: 3em;
+    padding-top: 1em;
     padding-bottom: 1em;
     /*padding-top: 2em;*/
     padding-left: 1.4em;
