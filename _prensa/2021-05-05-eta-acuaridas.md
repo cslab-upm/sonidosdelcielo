@@ -49,7 +49,7 @@ Durante el evento en directo, se contará con la colaboración de Enrique Pérez
 El Aula de Astronomía de Fuenlabrada es un recurso educativo público dedicado a la enseñanza de la astronomía en el ámbito escolar desde el curso 1998/1999. Surge de la colaboración de la Consejería de Educación de la Comunidad de Madrid con la Concejalía de Educación del  Ayuntamiento de Fuenlabrada y los docentes del Grupo Képler. Cuenta con más de 22.000 visitas durante un curso escolar. Este curso, se ha diseñado un taller para niños con la finalidad de que conozcan más acerca del fenómeno de las lluvias de estrellas y se fomente la participación en proyectos de ciencia ciudadana. La FECYT ha financiado la compra de tablets y auriculares para dotar la instalación de lo necesario para realizar la actividad. Ya está disponible el vídeo tutorial que se les presentará durante la visita ([Youtube](https://www.youtube.com/watch?v=0EioZakm8TA&list=PLcFbIQBQvk11jDXL8imMzeAe7JA5Zn8ua&index=2)).
 
 
-<img src="\sonidosdelcielo\docs\images\prensa\chatbot_children.png" style="height:1000px">
+<img src="/docs/images/prensa/chatbot_children.png" style="height:500px">
 
 
 ### Eta-Acuáridas: En Directo desde el Observatorio del Teide
