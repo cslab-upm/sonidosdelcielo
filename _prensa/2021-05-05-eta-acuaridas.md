@@ -2,7 +2,7 @@
 title: "Eta Acuáridas 2021"
 image: 
   # path: ../docs/images/prensa/semana-ciencia-2020-header.png
-  thumbnail: docs/images/prensa/semana-ciencia-2020-thumbnail1.png
+  thumbnail: docs/images/prensa/escape_room.png
   caption: ""
 categories:
   - Divulgación
@@ -27,7 +27,7 @@ En este proyecto, un equipo multidisciplinar formado por ingenieros de la Univer
 
 El proyecto cuenta con una red de estaciones de radiodetección de meteoros, una técnica muy novedosa para estudiar estos objetos, ampliamente conocidos como estrellas fugaces. Una de las ventajas de la radiodetección es que permite captar los ecos de los meteoros durante el día, llueva o esté nublado, condiciones que evidentemente no son propicias para hacer observación visual de este fenómeno pero que, hoy en día, sigue siendo la manera habitual de estudiar estos fenómenos. El equipo del proyecto ha desarrollado el software para transformar artificialmente los ecos en sonidos y presentarlos en diferentes formatos para su clasificación. 
 
-La versión más tradicional del experimento se encuentra en formato web integrada como proyecto dentro de la popular plataforma de ciencia ciudadana Zooniverse: [https://www.zooniverse.org/projects/cslab-upm/sky-sounds/]
+La versión más tradicional del experimento se encuentra en formato web integrada como proyecto dentro de la popular plataforma de ciencia ciudadana [Zooniverse](https://www.zooniverse.org/projects/cslab-upm/sky-sounds/)
 
 #### Chatbots 
 
@@ -66,19 +66,19 @@ Escape Room “Año 2029: Salvemos la Tierra del asteroide Apophis” para que l
 
 Taller para personas con discapacidad visual.
 
-Es necesario realizar una inscripción previa (gratuita) a través del siguiente:
-[http://eventos.upm.es/go/sonidos-del-cielo]
+Es necesario realizar una inscripción previa (gratuita) a través del siguiente 
+[enlace](http://eventos.upm.es/go/sonidos-del-cielo)
 
 
 Este proyecto está financiado por la FECYT.
-Web del proyecto: [http://sonidosdelcielo.org/]
+Web del proyecto: [Sonidos del Cielo](http://sonidosdelcielo.org/)
 
 Material audiovisual
-Imágenes y vídeos de lluvias de estrellas ([https://flic.kr/s/aHsjH2BFa4])
-Vídeo Eta-Acuárida en el Observatorio del Teide (2018) [https://flic.kr/p/UseR9V]
-Viaje en un Cometa -formación meteoroides: [https://youtu.be/iCoqxLjMmmU]
-Simulación órbita Eta-Acuáridas: [https://www.meteorshowers.org/view/Eta-Aquariids]
-Web del proyecto Sonidos del Cielo: [http://sonidosdelcielo.org/]
-Contadores de Estrellas y app ([www.contadoresdeestrellas.org])
+- [Imágenes y vídeos de lluvias de estrellas](https://flic.kr/s/aHsjH2BFa4)
+- [Vídeo Eta-Acuárida en el Observatorio del Teide (2018)](https://flic.kr/p/UseR9V)
+- [Viaje en un Cometa -formación meteoroides](https://youtu.be/iCoqxLjMmmU)
+- [Simulación órbita Eta-Acuáridas](https://www.meteorshowers.org/view/Eta-Aquariids)
+- [Web del proyecto Sonidos del Cielo](http://sonidosdelcielo.org/)
+- [Contadores de Estrellas y app](www.contadoresdeestrellas.org)
 
 
