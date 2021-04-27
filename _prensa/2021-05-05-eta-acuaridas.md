@@ -70,10 +70,12 @@ Es necesario realizar una inscripción previa (gratuita) a través del siguiente
 [enlace](http://eventos.upm.es/go/sonidos-del-cielo)
 
 
-Este proyecto está financiado por la FECYT.
-Web del proyecto: [Sonidos del Cielo](http://sonidosdelcielo.org/)
+**Este proyecto está financiado por la FECYT.**
 
-Material audiovisual
+**Web del proyecto: [Sonidos del Cielo](http://sonidosdelcielo.org/)**
+
+#### Material audiovisual
+
 - [Imágenes y vídeos de lluvias de estrellas](https://flic.kr/s/aHsjH2BFa4)
 - [Vídeo Eta-Acuárida en el Observatorio del Teide (2018)](https://flic.kr/p/UseR9V)
 - [Viaje en un Cometa -formación meteoroides](https://youtu.be/iCoqxLjMmmU)
