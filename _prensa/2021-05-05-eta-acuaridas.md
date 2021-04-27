@@ -21,18 +21,15 @@ Actualmente todavía sigue habiendo grandes dudas acerca de nuestro Sistema Sola
 
 #### Equipo multidisciplinar
 
-
 En este proyecto, un equipo multidisciplinar formado por ingenieros de la Universidad Politécnica de Madrid, astrónomos del Instituto de Astrofísica de Canarias, educadores de la Comunidad de Madrid y aficionados de la Agrupación Astronómica de Madrid Sur, se han unido para realizar dicha investigación y además acercar la ciencia ciudadana y la Astronomía a la sociedad.
 
 #### Infraestructura innovadora
-
 
 El proyecto cuenta con una red de estaciones de radiodetección de meteoros, una técnica muy novedosa para estudiar estos objetos, ampliamente conocidos como estrellas fugaces. Una de las ventajas de la radiodetección es que permite captar los ecos de los meteoros durante el día, llueva o esté nublado, condiciones que evidentemente no son propicias para hacer observación visual de este fenómeno pero que, hoy en día, sigue siendo la manera habitual de estudiar estos fenómenos. El equipo del proyecto ha desarrollado el software para transformar artificialmente los ecos en sonidos y presentarlos en diferentes formatos para su clasificación. 
 
 La versión más tradicional del experimento se encuentra en formato web integrada como proyecto dentro de la popular plataforma de ciencia ciudadana Zooniverse: https://www.zooniverse.org/projects/cslab-upm/sky-sounds/
 
 #### Chatbots 
-
 
 La versión más innovadora del proyecto se basa en el uso de inteligencia artificial por medio del desarrollo de chatbots. Éstos cada vez están más presentes en nuestra sociedad y en las aplicaciones que utilizamos, normalmente interactuando con los usuarios para resolver dudas por texto o voz. Sin embargo, Sonidos del cielo pretende que sean herramientas con las que hacer una ciencia ciudadana más accesible.
 
@@ -44,30 +41,22 @@ Se ha diseñado además un chatbot para hacer más accesible y atractivo el expe
 
 #### Lluvias de estrellas que se escuchan: Astronomía accesible
 
-
 Durante el evento en directo, se contará con la colaboración de Enrique Pérez Montero, Investigador Científico del CSIC, y uno de los divulgadores sobre Astronomía inclusiva más activos de nuestro país. Él presentará la iniciativa “El Universo en palabras”, que hace audiodescripciones de imágenes de objetos astronómicos.
-
 
 #### Un taller didáctico para niños en el Aula de Astronomía de Fuenlabrada 
 
-
 El Aula de Astronomía de Fuenlabrada es un recurso educativo público dedicado a la enseñanza de la astronomía en el ámbito escolar desde el curso 1998/1999. Surge de la colaboración de la Consejería de Educación de la Comunidad de Madrid con la Concejalía de Educación del  Ayuntamiento de Fuenlabrada y los docentes del Grupo Képler. Cuenta con más de 22.000 visitas durante un curso escolar. Este curso, se ha diseñado un taller para niños con la finalidad de que conozcan más acerca del fenómeno de las lluvias de estrellas y se fomente la participación en proyectos de ciencia ciudadana. La FECYT ha financiado la compra de tablets y auriculares para dotar la instalación de lo necesario para realizar la actividad. Ya está disponible el vídeo tutorial que se les presentará durante la visita ([Youtube](https://www.youtube.com/watch?v=0EioZakm8TA&list=PLcFbIQBQvk11jDXL8imMzeAe7JA5Zn8ua&index=2)).
 
-
-<img src="docs/images/prensa/chatbot_children.png" style="height:500px">
-
+<img src="/sonidosdelcielo/docs/images/prensa/chatbot_children.png" style="height:500px">
 
 #### Eta-Acuáridas: En Directo desde el Observatorio del Teide
-
 
 El día siguiente, al amanecer, englobado en las Iniciativas de divulgación del proyecto europeo EELabs (eelabs.eu), el canal [sky-live.tv](https://sky-live.tv/) retransmitirá, en directo, la lluvia de estrellas desde el Observatorio del Teide (IAC, Tenerife, Islas Canarias).
 
 La cita será el **próximo jueves 6 de mayo, a las 04:45 UT (5:45 hora local)** (6:45 CEST).
 Os esperamos a todos el próximo jueves 6 de mayo, no olvidéis inscribiros a través del formulario de la sección de Contacto 😄.
 
-
 #### Información del evento y programa
-
 
 **Miércoles día 5 de mayo a las 17:00h**
 
