@@ -2,7 +2,7 @@
 title: "Eta Acuáridas 2021"
 image: 
   # path: ../docs/images/prensa/semana-ciencia-2020-header.png
-  thumbnail: docs/images/prensa/escape_room.png
+  thumbnail: docs/images/prensa/eta-acuaridas.png
   caption: ""
 categories:
   - Divulgación
