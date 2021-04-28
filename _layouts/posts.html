@@ -25,14 +25,6 @@ layout: default
             <a href="{{ entry.url | relative_url}}">
                 <div class="card-filter"></div>
                 <img class="card-thumbnail" src="../{{ entry.image.thumbnail }}" alt="">
-                <div class="card-info">
-                    <div class="card-date">
-                        <time class="entry-date dt-published" datetime="{{ entry.date | date_to_xmlschema }}">
-                        {%- assign date_format = site.date_format | default: "%Y, %-d %B" -%}
-                        {{ entry.date | date: date_format }}
-                        </time></div>
-                    <div class="card-title">{{ entry.title }}</div>
-                </div>
             </a>
         </div>
         {%- endfor -%}

@@ -26,7 +26,7 @@ $(document).ready(function() {
     //enable this if u have configured the bot to start the conversation. 
     // showBotTyping();
     // $("#userInput").prop('disabled', true);
-    user_id = 'user'
+    user_id = Math.random().toString(36).substr(2);
     r = [{"text": "¡Hola! ¡Soy un Chatbot! Habla conmigo, salúdame y verás."}]
     showBotTyping();
     setTimeout(() => {
