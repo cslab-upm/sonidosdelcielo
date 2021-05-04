@@ -69,6 +69,7 @@ footer {
 .financing {
     font-family: 'Roboto', sans-serif;
     color: rgba(244,244,255,0.2);
+    font-size:medium;
 }
 .financing a {
     color: #6fc3df;
