@@ -14,7 +14,7 @@ tags:
 last_modified_at: 2021-04-27T16:19:55-05:00
 ---
 
-**Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)**
+***Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)***
 
 El 5 de mayo tendrá lugar una jornada online para conocer el proyecto Sonidos del Cielo. Un equipo multidisciplinar formado por informáticos, astrónomos, educadores y aficionados, ha utilizado la tecnología para involucrar a los ciudadanos en la clasificación de meteoros y, además, hacer más accesible dicha tarea para el público infantil y personas con discapacidad visual. Esa misma noche podremos disfrutar del máximo de la lluvia de estrellas de las Eta-Acuáridas. El evento será retransmitido en directo a través del canal sky-live, con la colaboración del proyecto Energy Efficiency Laboratories (EELabs), del Instituto de Astrofísica de Canarias (IAC).
 
