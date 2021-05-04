@@ -70,7 +70,7 @@ Es necesario realizar una inscripción previa (gratuita) a través del siguiente
 [enlace](http://eventos.upm.es/go/sonidos-del-cielo)
 
 
-**Este proyecto está financiado por la FECYT.**
+**Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)**
 
 **Web del proyecto: [Sonidos del Cielo](http://sonidosdelcielo.org/)**
 
