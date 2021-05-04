@@ -84,6 +84,6 @@ Es necesario realizar una inscripción previa (gratuita) a través del siguiente
 - [Viaje en un Cometa -formación meteoroides](https://youtu.be/iCoqxLjMmmU)
 - [Simulación órbita Eta-Acuáridas](https://www.meteorshowers.org/view/Eta-Aquariids)
 - [Web del proyecto Sonidos del Cielo](http://sonidosdelcielo.org/)
-- [Contadores de Estrellas y app](www.contadoresdeestrellas.org)
+- [Contadores de Estrellas y app](http://www.contadoresdeestrellas.org)
 
 
