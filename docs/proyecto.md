@@ -31,7 +31,7 @@ Como resultado del proyecto se espera obtener una clasificación de estos meteor
 
 # Datos abiertos
  
-Todos los datos de las detecciones las estamos poniendo accesibles para cualquier investigador o persona interesada en un formato más estándar. Gracias a la colaboración con Enrique Solano del Spanish Virtual Observatory [https://svo.cab.inta-csic.es/](https://svo.cab.inta-csic.es/) todos los datos han sido transformados a formato VOTable, disponible desde la URL: [https://chatbots.ieef.upm.es/svo/](https://chatbots.ieef.upm.es/svo/)
+Todos los datos de las detecciones las estamos poniendo accesibles para cualquier investigador o persona interesada en un formato más estándar. Gracias a la colaboración con Enrique Solano del Spanish Virtual Observatory ([https://svo.cab.inta-csic.es/](https://svo.cab.inta-csic.es/)) todos los datos han sido transformados a formato VOTable, disponible desde la URL: [https://chatbots.ieef.upm.es/svo/](https://chatbots.ieef.upm.es/svo/)
 <i class="fa fas fa-broadcast-tower"></i>
 
 # Accesibilidad
