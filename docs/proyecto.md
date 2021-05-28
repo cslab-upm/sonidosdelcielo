@@ -29,7 +29,9 @@ Actualmente todavía sigue habiendo grandes dudas acerca de nuestro Sistema Sola
 
 Como resultado del proyecto se espera obtener una clasificación de estos meteoros y se contrastará con las que existen ya publicadas en artículos científicos.
 
-
+# Datos abiertos
+ 
+Todos los datos de las detecciones las estamos poniendo accesibles para cualquier investigador o persona interesada en un formato más estándar. Gracias a la colaboración con Enrique Solano del Spanish Virtual Observatory (https://svo.cab.inta-csic.es/) todos los datos han sido transformados a formato VOTable, disponible desde la URL: http://chatbots.ieef.upm.es/svo/ 
 <i class="fa fas fa-broadcast-tower"></i>
 
 # Accesibilidad
