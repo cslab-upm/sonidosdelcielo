@@ -31,25 +31,25 @@ Esas pequeñas partículas están en nuestro entorno cotidiano y son fáciles de
 
 **Pasos a seguir:**
 
-1. Envolvemos el imán con el film transparente y lo atamos a la cuerda para que sea más cómodo el experimento.
+1) Envolvemos el imán con el film transparente y lo atamos a la cuerda para que sea más cómodo el experimento.
  
 <img src="../docs/images/prensa/iman_cuerda.png" style="height:500px">
 
-2. Salimos al exterior y, con la ayuda de la cuerda, vamos pasando el imán por distintas zonas para que el imán capte las partículas metálicas. 
+2) Salimos al exterior y, con la ayuda de la cuerda, vamos pasando el imán por distintas zonas para que el imán capte las partículas metálicas. 
 
 <img src="../docs/images/prensa/captura_sustancia.png" style="height:500px">
 
-3. En cuanto veamos que se ha adherido suficiente sustancia al nuestro imán, podemos proceder a la limpieza de estas sustancias y buscar micrometeoritos!
+3) En cuanto veamos que se ha adherido suficiente sustancia al nuestro imán, podemos proceder a la limpieza de estas sustancias y buscar micrometeoritos!
  
  <img src="../docs/images/prensa/sustancia.png" style="height:500px">
 
-4. En un pequeño contenedor, echamos un poco de alcohol y sumergimos el imán con el film en dicho contenedor. 
+4) En un pequeño contenedor, echamos un poco de alcohol y sumergimos el imán con el film en dicho contenedor. 
 Retiramos la cuerda y el imán dejando solamente el film surgiendo en alcohol. El alcohol ayudará a disolver las sustancias orgánicas y así poder encontrar más fácilmente los micrometeoritos.
 Al cabo de unos segundos podemos retirar el film y ya habríamos extraído todas las sustancias en nuestro contenedor.
  
  <img src="../docs/images/prensa/film.png" style="height:500px">
 
-5. Una vez que tengamos todas las sustancias en el alcohol, vamos a separar las partículas e intentar buscar los micrometeoritos con la ayuda del palillo y de la lupa.
+5) Una vez que tengamos todas las sustancias en el alcohol, vamos a separar las partículas e intentar buscar los micrometeoritos con la ayuda del palillo y de la lupa.
 Ten en cuenta que los micrometeoritos tienen una forma esférica, por lo que intentaríamos buscar partículas esféricas entre toda la sustancia captada por el imán.
 
 A continuación te proporcionamos algunos ejemplos de nuestras exploraciones para que veáis lo pequeño que son y la forma esférica que tienen:
