@@ -19,13 +19,13 @@ Esas pequeñas partículas están en nuestro entorno cotidiano y son fáciles de
 
 **Kit básico para la expedición:**
 
--	Un imán
--	Un plástico fino o film transparente para envolver el imán
--	Una cuerda 
--	Una lupa o microscopio
--	Alcohol etílico
--	Una aguja o un palillo
--	Una cámara para enviarnos una foto del hallazgo
+-	•	Un imán
+-	•	Un plástico fino o film transparente para envolver el imán
+-	•	Una cuerda 
+-	•	Una lupa o microscopio
+-	•	Alcohol etílico
+-	•	Una aguja o un palillo
+-	•	Una cámara para enviarnos una foto del hallazgo
 
 <img src="../docs/images/prensa/kit.png" style="height:500px">
 
@@ -64,15 +64,17 @@ A continuación te proporcionamos algunos ejemplos de nuestras exploraciones par
  
  <img src="../docs/images/prensa/met_3.png" style="height:500px">
 
-¿Quieres obtener tu propio regalo proveniente del sistema solar? Realize este experimento y comparte tu micrometeorito en Instagram, Twitter o TikTok con el hashtag #yoCazoMeteoritos y menciónanos:
+¿Quieres obtener tu propio regalo proveniente del sistema solar? Realize este experimento y comparte tu micrometeorito en Instagram, Twitter o TikTok con el hashtag **#yoCazoMeteoritos** y menciónanos:
 
-Twitter: @cslabupm
-Instagram: @cslabupm
-Facebook: @cslab-upm 
+Twitter: *@cslabupm*
+
+Instagram: *@cslabupm*
+
+Facebook: *@cslab-upm* 
 
 Por ejemplo:
 
-Este verano #yoCazoMeteoritos en Alpedrete con mis amigos. Iniciativa @cslabupm
+Este verano #yoCazoMeteoritos en Alpedrete con mis amigos. Iniciativa *@cslabupm*
 
 Nos gustará saber qué tal os lo habéis pasado :) Buen verano.
 
@@ -103,8 +105,8 @@ Pero veamos que ocurre en la Luna, donde no hay atmósfera
 Experimento: Caja llena de harina y encima una capa de cacao: tiramos canicas o piedras de diferente peso y con diferentes ángulos y vemos cómo se forman los cráteres.
 
  <img src="../docs/images/prensa/crater1.png" style="height:500px">
- <img src="../docs/images/prensa/crater2.png" style="height:500px">
- <img src="../docs/images/prensa/crater3.png" style="height:500px">
+ <img src="../docs/images/prensa/crater2.png" style="height:200px"><img src="../docs/images/prensa/crater3.png" style="height:200px">
+ 
  
 Los cráteres de impacto se forman cuando un meteorito se estrella contra la superficie de la luna o de un planeta (o de otro cuerpo en el espacio). Podemos apreciar cómo debido al impacto, el material más profundo de la superficie queda dispersado a nuestra vista. Observando los segmentos de harina esparcidos por la superficie podemos adivinar el ángulo de impacto del meteorito. Observando el cráter formado también podemos estimar el tamaño del meteorito.
 Los científicos usan herramientas para buscar y observar cráteres y aprender más sobre los procesos geológicos en los planetas, las lunas, los asteroides, y otros mundos.
