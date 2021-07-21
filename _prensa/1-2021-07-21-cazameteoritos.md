@@ -100,6 +100,7 @@ La Tierra gira alrededor del Sol y a veces, atraviesa esos restos que dejó el c
 Es un concepto que se reserva para distinguir el fenómeno luminoso que se produce cuando un meteoroide atraviesa nuestra atmósfera. Es sinónimo de estrella fugaz, término impropio, ya que no se trata de estrellas.
 
 **¿Por qué vemos estrellas fugaces?** 
+
 Gracias a nuestra atmósfera. Los meteoroides se calientan al llegar a nuestra atmósfera y se vaporiza parcial o completamente. Entonces nosotros vemos un brillo que es lo que denominamos estrella fugaz o meteoro.
 Pero veamos que ocurre en la Luna, donde no hay atmósfera
 Experimento: Caja llena de harina y encima una capa de cacao: tiramos canicas o piedras de diferente peso y con diferentes ángulos y vemos cómo se forman los cráteres.
@@ -113,6 +114,7 @@ Los científicos usan herramientas para buscar y observar cráteres y aprender m
 Nuestra atmósfera es como un escudo para estos objetos que chocan contra ella y por eso lo que vemos es un destello.
 
 **¿De dónde vienen los meteoros?**
+
 Los meteoros se producen cuando el meteoroide choca contra nuestra atmósfera. Es entonces cuando podemos ver estrellas fugaces si es de noche. Cuando el meteoroide choca contra la atmósfera, se denomina meteoro y cuando el material del meteoroide llega hasta nuestra superficie se llama meteorito.
 
 
