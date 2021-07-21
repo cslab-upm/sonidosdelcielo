@@ -106,7 +106,7 @@ Pero veamos que ocurre en la Luna, donde no hay atmósfera
 Experimento: Caja llena de harina y encima una capa de cacao: tiramos canicas o piedras de diferente peso y con diferentes ángulos y vemos cómo se forman los cráteres.
 
  <img src="../docs/images/prensa/crater1.png" style="height:500px">
- <img src="../docs/images/prensa/crater2.png" style="height:200px"><img src="../docs/images/prensa/crater3.png" style="height:200px">
+ ![](../docs/images/prensa/crater2.png) ![](../docs/images/prensa/crater3.png)
  
  
 Los cráteres de impacto se forman cuando un meteorito se estrella contra la superficie de la luna o de un planeta (o de otro cuerpo en el espacio). Podemos apreciar cómo debido al impacto, el material más profundo de la superficie queda dispersado a nuestra vista. Observando los segmentos de harina esparcidos por la superficie podemos adivinar el ángulo de impacto del meteorito. Observando el cráter formado también podemos estimar el tamaño del meteorito.
