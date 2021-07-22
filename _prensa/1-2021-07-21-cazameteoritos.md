@@ -1,5 +1,5 @@
 ---
-title: "Experimento para toda la familia: Cazando meteoritos"
+title: "Experimento para toda la familia: Cazando micrometeoritos"
 image: 
   thumbnail: docs/images/prensa/cazameteoritos.jpg
   caption: ""
@@ -36,7 +36,7 @@ Esas pequeñas partículas están en nuestro entorno cotidiano y son fáciles de
  
 <img src="../docs/images/prensa/iman_cuerda.png" style="height:500px">
 
-2) Salimos al exterior y, con la ayuda de la cuerda, vamos pasando el imán por distintas zonas para que el imán capte las partículas metálicas. 
+2) Salimos al exterior y, con la ayuda de la cuerda, vamos pasando el imán por distintas zonas para que el imán capte las partículas metálicas. Los mejores sitios para encontrar micrometeoritos son aquellos en los que el agua deposita sedimentos.
 
 <img src="../docs/images/prensa/captura_sustancia.png" style="height:500px">
 
@@ -96,7 +96,7 @@ En su órbita, el cometa pasa la mayor parte del tiempo muy lejos del sol, pero 
 Los materiales de la cabellera son arrastrados en sentido opuesto al sol por el viento solar y eso da lugar a la cola del cometa.
 La Tierra gira alrededor del Sol y a veces, atraviesa esos restos que dejó el cometa. Cuando esto ocurre vemos un montón de estrellas fugaces. 
 
-**¿Qué es un meteorito?**
+**¿Qué es un meteoro?**
 
 Es un concepto que se reserva para distinguir el fenómeno luminoso que se produce cuando un meteoroide atraviesa nuestra atmósfera. Es sinónimo de estrella fugaz, término impropio, ya que no se trata de estrellas.
 
