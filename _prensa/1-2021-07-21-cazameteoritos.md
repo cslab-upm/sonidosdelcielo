@@ -25,6 +25,7 @@ Esas pequeñas partículas están en nuestro entorno cotidiano y son fáciles de
 -	•	Una lupa o microscopio
 -	•	Alcohol etílico
 -	•	Una aguja o un palillo
+- •	Una pequeño recipiente
 -	•	Una cámara para enviarnos una foto del hallazgo
 
 <img src="../docs/images/prensa/kit.png" style="height:500px">
@@ -39,13 +40,13 @@ Esas pequeñas partículas están en nuestro entorno cotidiano y son fáciles de
 
 <img src="../docs/images/prensa/captura_sustancia.png" style="height:500px">
 
-3) En cuanto veamos que se ha adherido suficiente sustancia al nuestro imán, podemos proceder a la limpieza de estas sustancias y buscar micrometeoritos!
+3) En cuanto veamos que se ha adherido suficiente sustancia a nuestro imán, podemos proceder a la limpieza de estas sustancias y buscar micrometeoritos!
  
  <img src="../docs/images/prensa/sustancia.png" style="height:500px">
 
-4) En un pequeño contenedor, echamos un poco de alcohol y sumergimos el imán con el film en dicho contenedor. 
-Retiramos la cuerda y el imán dejando solamente el film surgiendo en alcohol. El alcohol ayudará a disolver las sustancias orgánicas y así poder encontrar más fácilmente los micrometeoritos.
-Al cabo de unos segundos podemos retirar el film y ya habríamos extraído todas las sustancias en nuestro contenedor.
+4) En un pequeño recipiente, echamos un poco de alcohol y sumergimos el imán con el film en dicho recipiente. 
+Retiramos la cuerda y el imán dejando solamente el film sumergido en alcohol. El alcohol ayudará a disolver las sustancias orgánicas y así poder encontrar más fácilmente los micrometeoritos.
+Al cabo de unos segundos podemos retirar el film y ya habríamos extraído todas las sustancias en nuestro recipiente.
  
  <img src="../docs/images/prensa/film.png" style="height:500px">
 
@@ -64,7 +65,7 @@ A continuación te proporcionamos algunos ejemplos de nuestras exploraciones par
  
  <img src="../docs/images/prensa/met_3.png" style="height:500px">
 
-¿Quieres obtener tu propio regalo proveniente del sistema solar? Realize este experimento y comparte tu micrometeorito en Instagram, Twitter o TikTok con el hashtag **#yoCazoMeteoritos** y menciónanos:
+¿Quieres obtener tu propio regalo proveniente del sistema solar? Realiza este experimento y comparte tu micrometeorito en Instagram, Twitter o Facebook con el hashtag **#yoCazoMeteoritos** y menciónanos:
 
 Twitter: *@cslabupm*
 
