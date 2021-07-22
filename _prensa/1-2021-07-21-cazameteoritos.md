@@ -65,7 +65,7 @@ A continuación te proporcionamos algunos ejemplos de nuestras exploraciones par
  
  <img src="../docs/images/prensa/met_3.png" style="height:500px">
 
-¿Quieres obtener tu propio regalo proveniente del sistema solar? Realiza este experimento y comparte tu micrometeorito en Instagram, Twitter o Facebook con el hashtag **#yoCazoMeteoritos** y menciónanos:
+¿Quieres obtener tu propio regalo proveniente del sistema solar? Realiza este experimento y comparte tu micrometeorito en Instagram, Twitter o Facebook con el hashtag **#yoCazoMicroMeteoritos** y menciónanos:
 
 Twitter: *@cslabupm*
 
@@ -75,7 +75,7 @@ Facebook: *@cslab-upm*
 
 Por ejemplo:
 
-Este verano #yoCazoMeteoritos en Alpedrete con mis amigos. Iniciativa *@cslabupm*
+Este verano **#yoCazoMicroMeteoritos** en Alpedrete con mis amigos. Iniciativa *@cslabupm*
 
 Nos gustará saber qué tal os lo habéis pasado :) Buen verano.
 
