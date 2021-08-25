@@ -1,7 +1,7 @@
 ---
 title: "Concurso: Gana un meteorito analizando una lluvia de estrellas"
 image: 
-  thumbnail: docs/images/prensa/concurso.jpg
+  thumbnail: docs/images/prensa/concurso.JPG
   caption: ""
 categories:
   - Divulgación
