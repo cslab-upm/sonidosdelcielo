@@ -21,7 +21,7 @@ Después de haber almacenado todos los datos, necesitamos de la colaboración ci
 
 El premio de este concurso es un meteorito metálico, de nombre Djebel Kamil y encontrado en Egipto en 2009. Toda la información está en este [enlace](https://www.lpi.usra.edu/meteor/metbull.php?code=52031). 
 
-<img src="../docs/images/prensa/meteorito_concurso.png" style="height:500px">
+<img src="../docs/images/prensa/concurso_meteorito.png" style="height:500px">
 
 Ganes o no, ten en cuenta lo más importante: estás participando en un proyecto de Ciencia Ciudadana y todo lo que estás haciendo es parte de una tarea científica que será útil para los astrónomos y para la sociedad en general.
 
