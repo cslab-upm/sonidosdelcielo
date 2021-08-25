@@ -17,16 +17,16 @@ last_modified_at: 2020-11-03T16:19:55-05:00
 
 Los pasados días 11, 12 y 13 de agosto tuvo lugar la popular lluvia de estrellas Perseidas o también conocida como Lágrimas de San Lorenzo. Fue un momento fantástico para disfrutar en vivo de ese espectáculo. Ahora bien, ¿sabías que hemos registrado todos los eventos del cielo durante esos días para ayudar a los astrónomos a estudiar mejor nuestro Sistema Solar? 
 
-Después de haber almacenado todos los datos, necesitamos de la colaboración ciudadana para analizarlos. La tarea es muy sencilla: clasificarlos y tratar de encontrar las detecciones con ecos de cabecera. ¿Y cómo se hace esto? Respondiendo a unas preguntas muy sencillas a través del experimento que tenemos en la plataforma Zooniverse: [Sky Sounds](https://www.zooniverse.org/projects/cslab-upm/sky-sounds).
+Después de haber almacenado todos los datos, necesitamos de la colaboración ciudadana para analizarlos. La tarea es muy sencilla: clasificarlos y tratar de encontrar las detecciones con ecos de cabecera. ¿Y cómo se hace esto? Respondiendo a unas preguntas muy sencillas a través del experimento que tenemos en la plataforma Zooniverse: [https://www.zooniverse.org/projects/cslab-upm/sky-sounds](https://www.zooniverse.org/projects/cslab-upm/sky-sounds).
 
-El premio de este concurso es un meteorito metálico, de nombre Djebel Kamil y encontrado en Egipto en 2009. 
+El premio de este concurso es un meteorito metálico, de nombre Djebel Kamil y encontrado en Egipto en 2009:
 
 -	•	Ataxita inagrupada. 
 -	•	Djebel Kamil, Egipto, 22°01'06''N / 26°05'16''E.
 -	•	Pesa 51.55  gramos y mide 5 x 2.5 x 1.2 cm.
 -	•	Ejemplar completo. La cara superior, que estaba a la intemperie presenta las marcas de impacto de arena transportada por el viento. La cara inferior que estaba protegida está sin alterar desde el impacto del meteorito.
 
-Toda la información está en este [enlace](https://www.lpi.usra.edu/meteor/metbull.php?code=52031)
+Toda la información está en este enlace: [https://www.lpi.usra.edu/meteor/metbull.php?code=52031](https://www.lpi.usra.edu/meteor/metbull.php?code=52031).
 
 <img src="../docs/images/prensa/concurso_meteorito.png" style="height:500px">
 
