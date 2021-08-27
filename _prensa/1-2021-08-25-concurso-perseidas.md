@@ -44,12 +44,14 @@ Los participantes deben crear una cuenta en Zooniverse ([https://www.zooniverse.
 El premio se otorgará al participante con mayor número de puntos. La fórmula es sencilla: se otorga **1 punto por clasificación** y **20 puntos por eco de cabecera** encontrado.
 
 
-El día 3 de septiembre se publicará la persona ganadora del concurso y se contactará con dicha persona para hacer la entrega del premio. La manera de contactar con esta persona es a través de la cuenta de Zooniverse que haya utilizado. La persona ganadora también puede ponerse en contacto con los organizadores a través del formulario Contacto de la web del proyecto ([http://sonidosdelcielo.org/contacto/](http://sonidosdelcielo.org/contacto/)). Si dicha persona no respondiera en el plazo de 24 horas, se entregaría el premio a la siguiente persona en el ranking.
+El lunes día 6 de septiembre se publicará la persona ganadora del concurso y se contactará con dicha persona para hacer la entrega del premio. La manera de contactar con esta persona es a través de la cuenta de Zooniverse que haya utilizado. La persona ganadora también puede ponerse en contacto con los organizadores a través del formulario Contacto de la web del proyecto ([http://sonidosdelcielo.org/contacto/](http://sonidosdelcielo.org/contacto/)). Si dicha persona no respondiera en el plazo de 24 horas, se entregaría el premio a la siguiente persona en el ranking.
 
 La entrega del premio se hará por correo postal únicamente en el ámbito nacional de España. Si la persona ganadora no es del ámbito nacional pero quiere recibir el premio en su país, puede hacerlo si se costea los gastos de envío.
 
 La persona ganadora da permiso a publicar su nombre completo y una fotografía suya en nuestra web y en las redes sociales.
 
 ___
+
+
 ***Con la colaboración de la [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) - [Ministerio de Ciencia e Innovación](https://www.ciencia.gob.es/)***
 
