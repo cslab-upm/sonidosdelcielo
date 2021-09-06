@@ -1,5 +1,5 @@
 ---
-title: "Resultados del concurso 'Consigue un meteorito'"
+title: "Resultados del concurso - Consigue un meteorito"
 image: 
   thumbnail: docs/images/prensa/resultados_concurso.png
   caption: ""
